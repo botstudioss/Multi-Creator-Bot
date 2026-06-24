@@ -1,0 +1,89 @@
+{
+  "management_mode": true,
+  "bots": [
+    {
+      "token": "8858435143:AAEqxv8FG9bO5G5JgYIvDUpQtIOslerNL_4",
+      "channel_id": "-1001003969510942",
+      "owner_id": 6256945751,
+      "log_channel": null,
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": true
+      }
+    },
+    {
+      "token": "8616122633:AAF1QNy02N35xnT-fTGmqO13t9XBV6Gc0TA",
+      "channel_id": "@scaredsv",
+      "owner_id": 8781943261,
+      "log_channel": null,
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": true
+      }
+    },
+    {
+      "token": "8943214174:AAFkdX6BU40O5jzOaW-Qx7ie7Y9Uy1bgLbw",
+      "channel_id": "-1003648849551",
+      "owner_id": 7993782671,
+      "log_channel": null,
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": true
+      }
+    },
+    {
+      "token": "8941821867:AAF85eZ_i5HNnO6bcuvSLScshMIirHabpco",
+      "channel_id": "@comofsevered",
+      "owner_id": 8815751773,
+      "log_channel": null,
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": true
+      }
+    },
+    {
+      "token": "8899015820:AAFFsG_KgqBXQqH1s1DgILT4wSCbuelCYRg",
+      "channel_id": "@sadkitty764",
+      "owner_id": 6152748510,
+      "log_channel": null,
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": true
+      }
+    },
+    {
+      "token": "8964592632:AAFfkuY42-WWLFa56RZ-IrgiC7hpA_q-kSU",
+      "channel_id": "@comofantipredators",
+      "owner_id": 8253132949,
+      "log_channel": "-1003825367392",
+      "config": {
+        "polls_mk": true,
+        "polls_alias": true,
+        "polls_duo": true,
+        "polls_hof": true,
+        "polls_group_claim": true,
+        "polls_custom": false
+      }
+    }
+  ]
+}
